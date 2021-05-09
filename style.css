@@ -2,7 +2,7 @@
 /* CSS Document 670px*/
 /*@media screen and(max-width: 460px)
 {*/
-@media (min-width: 500px) and (max-width: 999px)
+@media (min-width: 0px) and (max-width: 999px)
 {
   body {
   margin:0;
@@ -318,7 +318,7 @@ footer{
 
 
 /*パソコン画面 1001px 671px*/
-@media (min-width: 1000px) and (max-width: 2000px)
+@media (min-width: 1000px) and (max-width: 5000px)
 {
   body {
   margin:0;
