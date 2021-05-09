@@ -4,7 +4,7 @@
 /*スマホ画面*/
 /*@media (max-width: 610px)
 {*/
-@media (min-width: 500px) and (max-width: 999px)
+@media (min-width: 0px) and (max-width: 999px)
 {
   body {
     margin:0;
@@ -258,7 +258,7 @@ h1{
   
   
 /*パソコン画面 (max-width: 1400px / min-width: 1001px)*/
-@media (min-width: 1000px) and (max-width: 2000px)
+@media (min-width: 1000px) and (max-width: 5000px)
 {
   body {
     margin:0;
